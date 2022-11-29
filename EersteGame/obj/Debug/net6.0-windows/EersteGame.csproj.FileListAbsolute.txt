@@ -36,4 +36,13 @@ C:\Users\ILIAS\source\repos\EersteGame\EersteGame\obj\Debug\net6.0-windows\Eerst
 C:\Users\ILIAS\source\repos\EersteGame\EersteGame\obj\Debug\net6.0-windows\EersteGame.genruntimeconfig.cache
 C:\Users\ILIAS\source\repos\EersteGame\EersteGame\obj\Debug\net6.0-windows\ref\EersteGame.dll
 C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Ratfolk Axe Sprite Sheet.xnb
-C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\spritesheetHero.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Attack1.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Attack2.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Attack3.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Death.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Fall.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Idle.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Jump.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Run.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Take Hit - white silhouette.xnb
+C:\Users\ILIAS\source\repos\EersteGame\EersteGame\bin\Debug\net6.0-windows\Content\Characters\Hero\Take Hit.xnb
